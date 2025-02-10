@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **sreedevmannarkkad@gmail.com,8113928799**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wtWKrwuNUzTaJNrAlx7yBcOYIXX8t5nL/view?usp=drive_link]((https://drive.google.com/file/d/1wtWKrwuNUzTaJNrAlx7yBcOYIXX8t5nL/view?usp=drive_link)
+- 📄 Know about my experiences [CV]((https://drive.google.com/file/d/1wtWKrwuNUzTaJNrAlx7yBcOYIXX8t5nL/view?usp=drive_link)
 
 - ⚡ Fun fact **I need more space**
-https://drive.google.com/file/d/1REPNpyWMfapjILfcwmoQCBOlW2vIAZMr/view?usp=drive_link
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreedev-vk-38a793237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreedev-vk-38a793237" height="30" width="40" /></a>
