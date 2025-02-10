@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sreedevmannarkkad@gmail.com,8113928799**
 
-- 📄 Know about my experiences [CV]((https://drive.google.com/file/d/1wtWKrwuNUzTaJNrAlx7yBcOYIXX8t5nL/view?usp=drive_link)
+- 📄 Know about my experiences ((https://drive.google.com/file/d/1wtWKrwuNUzTaJNrAlx7yBcOYIXX8t5nL/view?usp=drive_link)
 
 - ⚡ Fun fact **I need more space**
 
