@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sreedev</h1>
+<h1 align="center">Hi 👋, I'm Sreedev</h1>
 <h3 align="center">A passionate AI enthusiast from India</h3>
 
 - 🔭 I’m currently working **Bill automation using AI**
